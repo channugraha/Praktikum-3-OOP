@@ -48,7 +48,7 @@ java ManagerBeraksi
 java ProgrammerBeraksi
 ```
 ## Program Result
-![Screenshot Praktikum2](https://user-images.githubusercontent.com/116129101/197527278-729e0bd2-ce29-466f-a803-ad0b5d541163.png)
+![image](https://user-images.githubusercontent.com/116129101/199462696-a65a9aa8-fc0a-4afb-ad0d-6a49da2fc69c.png)
 
 
 ## Credit
