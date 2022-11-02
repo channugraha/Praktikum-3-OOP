@@ -12,30 +12,40 @@ Program ini dibuat dengan menggunakan:
 
 ## Structure
 ```
-📁Praktikum2
-    📄Person.class
-    📄Person.java
-    📄PersonAksi.class
-    📄PersonAksi.java
+📁Praktikum3
+    📄Manager.class
+    📄Manager.java
+    📄ManagerBeraksi.class
+    📄ManagerBeraksi.java
+    📄Pegawai.class
+    📄Pegawai.java
+    📄Programmer.class
+    📄Programmer.java
+    📄ProgrammerBeraksi.class
+    📄ProgrammerBeraksi.java
 ```
 
 ## Instalation
 Buka CMD, lalu ketik cd dan lokasi path penyimpanan file
 ```
-cd (file path location) example: "cd E:\OOP\Praktikum2"
+cd (file path location) example: "cd E:\OOP\Praktikum3"
 ```
 ketik local disk path untuk mengakses direkotri
 ```
 E:
 ```
-lalu compile kedua file yaitu Person.java dan PersonAksi.java
+lalu compile yaitu Pegawai.java, Manager.java, Programmer.java, ManagerBeraksi.java, dan ProgrammerBeraksi.java
 ```
-javac Person.java
-javac PersonAksi.java
+javac Pegawai.java
+javac Manager.java
+javac Programmer.java
+javac ManagerBeraksi.java
+javac ProgrammerBeraksi.java
 ```
-setelah itu run program PersonBaru
+setelah itu run program ManagerBeraksi dan ProgrammerBeraksi
 ```
-java PersonAksi
+java ManagerBeraksi
+java ProgrammerBeraksi
 ```
 ## Program Result
 ![Screenshot Praktikum2](https://user-images.githubusercontent.com/116129101/197527278-729e0bd2-ce29-466f-a803-ad0b5d541163.png)
